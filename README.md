@@ -37,6 +37,7 @@ Berikut contoh dokumen pada Mongo DB :
 ## :computer: **Visualisasi**
 
 Berikut link visualisasi dari data yang telah di scraping :
+https://rpubs.com/nurzatil99/1053823 
 
 ## :walking: **Pengembang**
 **Nurzatil Aqmar (G1501222044)**
