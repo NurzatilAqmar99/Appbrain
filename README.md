@@ -1,6 +1,6 @@
 # **Google Play Ranking Scraping**
 
-[![scrape_hashtag](https://github.com/rismandwij/tiktok_hashtag/actions/workflows/main.yml/badge.svg)](https://github.com/rismandwij/tiktok_hashtag/actions/workflows/main.yml)
+[![scrape_hashtag](https://github.com/NurzatilAqmar99/Appbrain/actions/workflows/main.yml/badge.svg)](https://github.com/NurzatilAqmar99/Appbrain/blob/main/.github/workflows/main.yml)
 
 <p align="center" width="100%">
     <img width="70%" src="https://raw.githubusercontent.com/NurzatilAqmar99/Appbrain/main/share_google_play_logo.png">
