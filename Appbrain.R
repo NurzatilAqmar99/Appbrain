@@ -9,7 +9,6 @@ url<-"https://www.appbrain.com/stats/google-play-rankings/top_free/all/id"
 tokped<-read_html(url)
 tok<-tokped %>% html_nodes("table") %>% html_table()
 tablek<-as.data.frame(tok[[1]])
-View(tablek)
 tablek=tablek[,-c(2,3,9,10)]
 g=seq(2,nrow(tablek),2)
 tablek=tablek[-g,]
